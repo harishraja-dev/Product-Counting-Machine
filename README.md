@@ -3,4 +3,4 @@ The Product Counting Machine is an innovative device designed to automate the pr
 
 I have added the document and circuit image , follow that.
 
-There is a working video also , you can watch that.
+There is a working video also , you can watch it.
